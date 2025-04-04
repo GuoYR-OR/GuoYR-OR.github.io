@@ -17,11 +17,11 @@ title: Publications
 
 ## Early Project
 
-- Research on spare part demand forecasting and allocation optimization technology<br>"预研项目:装备备件需求预测与配置优化技术"<br>(**Yurong Guo** (Advisors: Quan Shi))
+- Research on spare part demand forecasting and allocation optimization technology<br>(**Yurong Guo** (Advisors: Quan Shi))
 
-- Research on spare parts inventory and allocation control in two-echelon maintenance system<br>"省内科研:典型装备两级维修体制下备件配置优化技术研究"<br>(**Yurong Guo** (Advisors: Quan Shi))
+- Research on spare parts inventory and allocation control in two-echelon maintenance system<br>(**Yurong Guo** (Advisors: Quan Shi))
 
-- Dynamic maintenance optimization of complex systems considering correlation and task constraints<br>"面上项目:考虑相关性和任务约束的复杂系统动态维修优化"<br>(**Yurong Guo** (Advisors: Quan Shi))
+- Dynamic maintenance optimization of complex systems considering correlation and task constraints<br>(**Yurong Guo** (Advisors: Quan Shi))
 
   <br>
 
