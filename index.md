@@ -8,9 +8,7 @@ layout: page
 
 Here is **Yurong Guo**.<br>
 
-I am a Ph.D. student in Mining Engineering, School of resources and safety engineering, Central south university.
-I got M.S. degree in armament science and technology, department of equipment command and management, Army engineering university.
-I got B.S. degree in equipment support engineering, department of equipment command and management, Army engineering university.
+I am a Ph.D. student in Mining Engineering, School of resources and safety engineering, Central south university. I got M.S. degree in armament science and technology, department of equipment command and management, Army engineering university. I got B.S. degree in equipment support engineering, department of equipment command and management, Army engineering university.
 
 ---
 
