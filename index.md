@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/Guoyurong.jpg" class="floatpic">
+<img src="https://guoyurong.com/Guoyurong.jpg" class="floatpic">
 
 Here is **Yurong Guo**.<br>
 
